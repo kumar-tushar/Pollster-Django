@@ -1,6 +1,3 @@
-# Polling App using django
-> Python Django app to create polls with questions/choices
-
 # Quick Start
 ``` bash
 # Install dependencies
